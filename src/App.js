@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Header from './Component/Headar/Header';
 import Shop from './Component/Shop/Shop';
