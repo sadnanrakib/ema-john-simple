@@ -6,7 +6,11 @@
     justify-content: space-between;
     padding-left: 140px;
     padding-right:130px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
 }
+
 
 .header a{
     color: aliceblue;
